@@ -1,0 +1,19 @@
+unutar app foldera ce se pokretati i nalaziti cijeli nas kod
+
+
+-Route Groups
+
+In App directory nested folders are normally mapped to URL paths, hoever if u wanna to prevent folder to be included via Route Groups
+
+"(mappedFolder)"
+
+
+-component folder je izvan app direktorija jer u app stavljamo samo files and folder koje zelimo da se rendera u homepagu
+
+shadcn je npx install 
+
+
+primjer u (root) folderu sam kreirao folder thread i u folderu thread folde [id] u njemu page.tsx
+
+-- TAKO SE RADI U NEXTJS DINAMICKI ROUTING-- 
+
